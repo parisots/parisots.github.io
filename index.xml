@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah Parisot</title>
+    <link>parisots.github.io/</link>
+    <description>Recent content on Sarah Parisot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Sep 2015 23:45:22 +0100</lastBuildDate>
+    <atom:link href="parisots.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Publications</title>
+      <link>/parisots.github.io/Publications/</link>
+      <pubDate>Mon, 07 Sep 2015 23:45:22 +0100</pubDate>
+      
+      <guid>/parisots.github.io/Publications/</guid>
+      <description>
+
+&lt;h3 id=&#34;phd-thesis:10506e90c49cc5586595cb0d33adb63a&#34;&gt;PhD thesis:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Understanding, Modeling and Detecting Brain Tumors:
+Graphical Models and Concurrent Segmentation/Registration methods.
+Sarah Parisot, November 2013.
+[&lt;a href=&#34;https://tel.archives-ouvertes.fr/tel-00944541/document&#34;&gt;PDF&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2017:10506e90c49cc5586595cb0d33adb63a&#34;&gt;2017&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Sofia Ira Ktena, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Enzo Ferrante, Martin Rajchl, Matthew Lee, Ben Glocker, Daniel Rueckert:
+&lt;em&gt;Metric Learning with Spectral Graph Convolutions on Brain Connectivity Networks&lt;/em&gt;.
+Accepted at NeuroImage (2017)
+[&lt;a href=&#34;https://github.com/sk1712/gcn_metric_learning&#34;&gt;Code&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Ben Glocker, Sofia Ira Ktena, Salim Arslan, Markus D Schirmer, Daniel Rueckert:
+&lt;em&gt;A flexible graphical model for multi-modal parcellation of the cortex&lt;/em&gt;.
+NeuroImage (2017)
+[&lt;a href=&#34;https://doi.org/10.1016/j.neuroimage.2017.09.005&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;https://www.researchgate.net/publication/319566882_A_flexible_graphical_model_for_multi-modal_parcellation_of_the_cortex&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Salim Arslan, Sofia Ira Ktena, Antonios Makropoulos, Emma C. Robinson, Daniel Rueckert,
+&lt;strong&gt;Sarah Parisot&lt;/strong&gt;:
+&lt;em&gt;Human Brain Mapping: A Systematic Comparison of Parcellation Methods for
+the Human Cerebral Cortex&lt;/em&gt;.
+NeuroImage (2017)
+[&lt;a href=&#34;https://biomedia.doc.ic.ac.uk/brain-parcellation-survey/&#34;&gt;Code and Data&lt;/a&gt;] [&lt;a href=&#34;http://doi.org/10.1016/j.neuroimage.2017.04.014&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;https://www.doc.ic.ac.uk/~sa1013/pub/2017-neuroimage-brain-parcellation-survey.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Sofia Ira Ktena, Enzo Ferrante, Matthew Lee, Ricardo Guerrerro Moreno, Ben Glocker, Daniel Rueckert:
+&lt;em&gt;Spectral Graph Convolutions for Population-based Disease Prediction&lt;/em&gt;.
+MICCAI 2017.
+[&lt;a href=&#34;https://github.com/parisots/population-gcn&#34;&gt;Code&lt;/a&gt;] [&lt;a href=&#34;https://arxiv.org/pdf/1703.03020.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sofia Ira Ktena, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Enzo Ferrante, Martin Rajchl, Matthew Lee, Ben Glocker, Daniel Rueckert:
+&lt;em&gt;Distance Metric Learning using Graph Convolutional Networks: Application to Functional Brain Networks&lt;/em&gt;.
+MICCAI 2017.
+[&lt;a href=&#34;https://github.com/sk1712/gcn_metric_learning&#34;&gt;Code&lt;/a&gt;] [&lt;a href=&#34;https://arxiv.org/pdf/1703.02161.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sofia Ira Ktena, Salim Arslan, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Daniel Rueckert:
+&lt;em&gt;Exploring Heritability of Functional Brain Networks with Inexact Graph Matching.&lt;/em&gt;
+ISBI 2017.
+[&lt;a href=&#34;https://arxiv.org/pdf/1703.10062.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jonathan Passerat-Palmbach, Romain Reuillon, Mathieu Leclaire, Antonios Makropoulos, Emma C Robinson, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Daniel Rueckert:
+&lt;em&gt;Reproducible large-scale neuroimaging studies with the OpenMOLE workflow management system&lt;/em&gt;.
+Frontiers in Neuroinformatics 2017; 11: 21.
+[&lt;a href=&#34;http://dx.doi.org/10.3389/fninf.2017.00021&#34;&gt;DOI&lt;/a&gt;][&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5361107/pdf/fninf-11-00021.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2016:10506e90c49cc5586595cb0d33adb63a&#34;&gt;2016&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Salim Arslan, Jonathan Passerat-Palmbach, William M. Wells III, Daniel Rueckert:
+&lt;em&gt;Group-wise parcellation of the cortex through multi-scale spectral clustering&lt;/em&gt;.
+NeuroImage (2016).
+[&lt;a href=&#34;http://dx.doi.org/10.1016/j.neuroimage.2016.05.035&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotNI16.bib&#34;&gt;Bibtex&lt;/a&gt;][&lt;a href=&#34;parisots.github.io/PDFs/ParisotNeuroImage16.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Amélie Darlix, Cédric Baumann, Sonia Zouaoui, Yordanka Yordanova, Marie Blonski, Valérie Rigau et al.:
+&lt;em&gt;A Probabilistic Atlas of Diffuse WHO Grade II Glioma Locations in the Brain&lt;/em&gt;.
+PloS one 11, no. 1 (2016).
+[&lt;a href=&#34;http://dx.doi.org/10.1371/journal.pone.0144200&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotPone16.bib&#34;&gt;Bibtex&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Nikos Paragios, Enzo Ferrante, Ben Glocker, Nikos Komodakis, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Evangelia I. Zacharaki:
+&lt;em&gt;(Hyper)-graphical models in biomedical image analysis&lt;/em&gt;
+Medical Image Analysis 33, 102-106 (&lt;strong&gt;&lt;em&gt;Invited paper&lt;/em&gt;&lt;/strong&gt;)
+[&lt;a href=&#34;http://dx.doi.org/10.1016/j.media.2016.06.028&#34;&gt;DOI&lt;/a&gt;][&lt;a href=&#34;parisots.github.io/bib/ParagiosMEDIA16.bib&#34;&gt;Bibtex&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Ben Glocker, Markus D. Schirmer, and Daniel Rueckert:
+&lt;em&gt;GraMPa: Graph-Based Multi-modal Parcellation of the Cortex Using Fusion Moves.&lt;/em&gt;
+MICCAI 2016: 148-156.
+[&lt;a href=&#34;http://dx.doi.org/10.1007/978-3-319-46720-7_18&#34;&gt;DOI&lt;/a&gt;][&lt;a href=&#34;parisots.github.io/bib/ParisotMICCAI16.bib&#34;&gt;Bibtex&lt;/a&gt;][&lt;a href=&#34;parisots.github.io/PDFs/ParisotMICCAI16.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Salim Arslan, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;, and Daniel Rueckert:
+&lt;em&gt;Boundary Mapping Through Manifold Learning for Connectivity-Based Cortical Parcellation.&lt;/em&gt;
+MICCAI 2016: 115-122.
+[&lt;a href=&#34;http://dx.doi.org/10.1016/j.media.2016.06.028&#34;&gt;DOI&lt;/a&gt;][&lt;a href=&#34;parisots.github.io/bib/ArslanMICCAI16.bib&#34;&gt;Bibtex&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sofia Ira Ktena, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Jonathan Passerat-Palmbach, Daniel Rueckert:
+&lt;em&gt;Comparison of Brain Networks with Unknown Correspondences&lt;/em&gt;
+MICCAI Workshop on Brain Analysis using Connectivity Networks (BACON) 2016.
+[&lt;a href=&#34;https://arxiv.org/pdf/1611.04783.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Konstantinos Kamnitsas, Enzo Ferrante, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Christian Ledig, Aditya Nori, Antonio Criminisi, Daniel Rueckert, Ben Glocker:
+&lt;em&gt;DeepMedic for Brain Tumor Segmentation&lt;/em&gt;
+BRATS-MICCAI Workshop 2016.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt; and Daniel Rueckert:
+&lt;em&gt;A Cortical Parcellation Framework for Multimodal Analysis.&lt;/em&gt;
+OHBM, Geneva, 2016.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2015:10506e90c49cc5586595cb0d33adb63a&#34;&gt;2015&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Martin Rajchl, Jonathan Passerat-Palmbach, Daniel Rueckert:
+&lt;em&gt;A Continuous Flow-Maximisation Approach to Connectivity-driven Cortical Parcellation&lt;/em&gt;.
+MICCAI (3) 2015: 165-172.
+[&lt;a href=&#34;http://dx.doi.org/10.1007/978-3-319-24574-4_20&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotMICCAI15.bib&#34;&gt;Bibtex&lt;/a&gt;][&lt;a href=&#34;parisots.github.io/PDFs/ParisotMICCAI15.pdf&#34;&gt;PDF&lt;/a&gt;][&lt;a href=&#34;https://www.youtube.com/watch?v=AqmDB5CZS7o&#34;&gt;Teaser&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Salim Arslan, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Daniel Rueckert:
+&lt;em&gt;Joint Spectral Decomposition for the Parcellation of the Human Cerebral Cortex Using Resting-State fMRI.&lt;/em&gt;
+IPMI 2015: 85-97  (&lt;strong&gt;&lt;em&gt;Oral presentation&lt;/em&gt;&lt;/strong&gt;)
+[&lt;a href=&#34;http://dx.doi.org/10.1007/978-3-319-19992-4_7&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ArslanIPMI15.bib&#34;&gt;Bibtex&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Salim Arslan, Jonathan Passerat-Palmbach, William M. Wells III, Daniel Rueckert:
+&lt;em&gt;Tractography-Driven Groupwise Multi-scale Parcellation of the Cortex&lt;/em&gt;.
+IPMI 2015: 600-612
+[&lt;a href=&#34;http://dx.doi.org/10.1007/978-3-319-19992-4_47&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotIPMI15.bib&#34;&gt;Bibtex&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/PDFs/ParisotIPMI15.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Wenjia Bai, Devis Peressutti, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Ozan Oktay, Martin Rajchl, Declan P. O&amp;rsquo;Regan, Stuart A. Cook, Andrew P. King, Daniel Rueckert:
+&lt;em&gt;Beyond the AHA 17-Segment Model: Motion-Driven Parcellation of the Left Ventricle&lt;/em&gt;.
+STACOM@MICCAI 2015: 13-20
+[&lt;a href=&#34;http://dx.doi.org/10.1007/978-3-319-28712-6_2&#34;&gt;DOI&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Salim Arslan, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;, and Daniel Rueckert:
+&lt;em&gt;Supervertex clustering of the cerebral cortex using resting-state fMRI.&lt;/em&gt;
+OHBM, Honolulu, 2015.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Salim Arslan, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;, and Daniel Rueckert:
+&lt;em&gt;How to represent subregions in a parcellated brain for fMRI analysis?&lt;/em&gt;
+OHBM, Honolulu, 2015.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt; and Daniel Rueckert:
+&lt;em&gt;Multi-Scale Spectral Parcellation of the Cortex Based on Structural Connectivity.&lt;/em&gt; OHBM, Honolulu, 2015.
+[&lt;a href=&#34;parisots.github.io/PDFs/Parcellation.pdf&#34;&gt;Poster&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt; and D. Rueckert:
+&lt;em&gt;Evaluation Methods for Diffusion-driven Cortex Parcellation.&lt;/em&gt;
+OHBM, Honolulu, 2015.
+[&lt;a href=&#34;parisots.github.io/PDFs/Evaluation.pdf&#34;&gt;Poster&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Salim Arslan, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;, and Daniel Rueckert:
+&lt;em&gt;Comparing connectivity-based groupwise parcellations generated from resting-state fMRI and DTI data: Preliminary results.&lt;/em&gt;
+Symposium on Big Data Initiatives for Connectomics Research, BIH 2015.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2014:10506e90c49cc5586595cb0d33adb63a&#34;&gt;2014&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt;, William M. Wells III, Stéphane Chemouny, Hugues Duffau, Nikos Paragios:
+&lt;em&gt;Concurrent tumor segmentation and registration with uncertainty-based sparse non-uniform graphs&lt;/em&gt;.
+Medical Image Analysis 18(4): 647-659 (2014)
+[&lt;a href=&#34;http://dx.doi.org/10.1016/j.media.2014.02.006&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotMedia14.bib&#34;&gt;Bibtex&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/PDFs/ParisotMedia14.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2013:10506e90c49cc5586595cb0d33adb63a&#34;&gt;2013&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt;, William M. Wells III, Stéphane Chemouny, Hugues Duffau, Nikos Paragios:
+&lt;em&gt;Uncertainty-Driven Efficiently-Sampled Sparse Graphical Models for Concurrent Tumor Segmentation and Atlas Registration&lt;/em&gt;.
+ICCV 2013: 641-648
+[&lt;a href=&#34;http://dx.doi.org/10.1109/ICCV.2013.85&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotICCV13.bib&#34;&gt;Bibtex&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/PDFs/ParisotICCV13.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2012:10506e90c49cc5586595cb0d33adb63a&#34;&gt;2012&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Hugues Duffau, Stéphane Chemouny, Nikos Paragios:
+&lt;em&gt;Graph-based detection, segmentation &amp;amp; characterization of brain tumors&lt;/em&gt;.
+CVPR 2012: 988-995
+[&lt;a href=&#34;http://dx.doi.org/10.1109/CVPR.2012.6247775&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotCVPR12.bib&#34;&gt;Bibtex&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/PDFs/ParisotCVPR12.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Hugues Duffau, Stéphane Chemouny, Nikos Paragios:
+&lt;em&gt;Joint Tumor Segmentation and Dense Deformable Registration of Brain MR Images&lt;/em&gt;. MICCAI (2) 2012: 651-658 (&lt;strong&gt;&lt;em&gt;Oral presentation&lt;/em&gt;&lt;/strong&gt;)
+[&lt;a href=&#34;http://dx.doi.org/10.1007/978-3-642-33418-4_80&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotMICCAI12.bib&#34;&gt;Bibtex&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/PDFs/ParisotMICCAI12.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/Talks/MICCAI12.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2011:10506e90c49cc5586595cb0d33adb63a&#34;&gt;2011&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Hugues Duffau, Stéphane Chemouny, Nikos Paragios:
+&lt;em&gt;Graph Based Spatial Position Mapping of Low-Grade Gliomas&lt;/em&gt;.
+MICCAI (2) 2011: 508-515
+[&lt;a href=&#34;http://dx.doi.org/10.1007/978-3-642-23629-7_62&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotMICCAI11.bib&#34;&gt;Bibtex&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/PDFs/ParisotMICCAI11.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/parisots.github.io/Research/</link>
+      <pubDate>Mon, 07 Sep 2015 01:21:41 +0100</pubDate>
+      
+      <guid>/parisots.github.io/Research/</guid>
+      <description>
+
+&lt;h3 id=&#34;graph-convolutional-neural-networks:480eabfc025a3acfeb789e67d556a2f3&#34;&gt;Graph Convolutional Neural Networks&lt;/h3&gt;
+
+&lt;p&gt;Convolutional Neural Networks (CNNs) have found numerous applications on 2D and 3D images, as powerful models that exploit features (e.g. image intensities) and neighbourhood information (e.g. the regular pixel grid) to yield hierarchies of features and solve problems like image segmentation and classification. Their impressive performance can be partly linked to the fact that CNNs intrinsically exploit the relationship between neighbouring pixels through the images&amp;rsquo; regular grid structure.&lt;/p&gt;
+
+&lt;p&gt;Applying similarly powerful tools for data defined on irregular graphical domains is not straightforward. In this project, we explore the novel concept of graph CNNs for brain analysis using population and brain graphs. In particular, spectral graph CNNs expoit the concept of signal processing on graphs, allowing convolutions in the graph spatial domain to be dealt as multiplications in the graph spectral domain.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;parisots.github.io/images/GCN_figs.jpg&#34; alt=&#34;GCN&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Such formulation was exploited for:&lt;br/&gt;
+- Brain analysis in populations, combining imaging and non-imaging data through the construction of graphs representing populations. Semi-supervised classification of the graph nodes is carried out for diagnosis tasks.&lt;br/&gt;
+- The comparison of brain graphs, using a siamese graph CNN to learn a similarity metric between brain connectivity networks.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Key methodological aspects&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Machine/deep learning and applications to unstructured domains&lt;/li&gt;
+&lt;li&gt;Graph signal processing&lt;/li&gt;
+&lt;li&gt;Semi-supervised classification&lt;/li&gt;
+&lt;li&gt;Metric learning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Selected publications&lt;/em&gt;:&lt;/br&gt;
+Parisot et al. MICCAI 2017&lt;/br&gt;
+Ktena et al. MICCAI 2017&lt;/p&gt;
+
+&lt;h3 id=&#34;connectivity-driven-brain-parcellation:480eabfc025a3acfeb789e67d556a2f3&#34;&gt;Connectivity-driven Brain Parcellation&lt;/h3&gt;
+
+&lt;p&gt;This project is carried out under the scope of the &lt;a href=&#34;http://www.developingconnectome.org/&#34;&gt;Developing Human Connectome Project&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;parisots.github.io/images/dHCP_participant_facing.jpg&#34; alt=&#34;dHCP&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Brain connectivity (structural from diffusion MRI or functional from functional MRI) can provide essential information on the interactions between brain regions and their processing abilities. It notably has the potential to unravel the mechanisms behind neurodegenerative diseases or ageing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;parisots.github.io/images/parc.png&#34; alt=&#34;parc&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The goal of connectivity-driven brain parcellation is two-fold: &lt;br/&gt;
+ &lt;strong&gt;&lt;em&gt;Dimensionality reduction&lt;/em&gt;&lt;/strong&gt;: In vivo connectivity data is obtained at the voxel or vertex level. The dimensionality of this data is too high to extract any meaningful information from connectivity networks. We aim at identifying the nodes of the connectivity network at a lower resolution, where each node correspond to a brain region that has consistent connectivity profiles.&lt;br/&gt;
+&lt;strong&gt;&lt;em&gt;Identification of functionally specified regions&lt;/em&gt;&lt;/strong&gt;: On top of building connectivity networks, regions that have sharp transitions of connectivity profiles can be an indicator of a different functional specialisation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;parisots.github.io/images/methods.png&#34; alt=&#34;methods&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Several approaches were considered to tackle the task of brain parcellation:&lt;br/&gt;
+- We investigated group-wise parcellation through spectral clustering techniques.&lt;br/&gt;
+- Modelling the parcellation task as an iterative continuous Potts model using the recent continuous max-flow optimiser.
+- The Potts model formulation was later extended for multi-modal parcellation and discrete optimisers.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Key methodological aspects&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Multi-scale spectral clustering&lt;/li&gt;
+&lt;li&gt;Continuous and Discrete Potts models&lt;/li&gt;
+&lt;li&gt;Adaptation of a state of the art optimiser to spherical meshes&lt;/li&gt;
+&lt;li&gt;Computer vision methods (co segmentation) for groupwise parcellation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Selected publications&lt;/em&gt;:&lt;/br&gt;
+Parisot et al. NeuroImage (2017). [&lt;a href=&#34;https://doi.org/10.1016/j.neuroimage.2017.09.005&#34;&gt;DOI&lt;/a&gt;][&lt;a href=&#34;https://www.researchgate.net/publication/319566882_A_flexible_graphical_model_for_multi-modal_parcellation_of_the_cortex&#34;&gt;PDF&lt;/a&gt;]&lt;/br&gt;
+Parisot et al. NeuroImage (2016).
+[&lt;a href=&#34;http://dx.doi.org/10.1016/j.neuroimage.2016.05.035&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotNI16.bib&#34;&gt;Bibtex&lt;/a&gt;][&lt;a href=&#34;parisots.github.io/PDFs/ParisotNeuroImage16.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/br&gt;
+Arslan et al. NeuroImage (2017)[&lt;a href=&#34;http://doi.org/10.1016/j.neuroimage.2017.04.014&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;https://www.doc.ic.ac.uk/~sa1013/pub/2017-neuroimage-brain-parcellation-survey.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;concurrent-registration-segmentation:480eabfc025a3acfeb789e67d556a2f3&#34;&gt;Concurrent Registration/Segmentation&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;parisots.github.io/images/graphabstractMedia14.svg&#34; alt=&#34;Media14&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The idea behind this project was to exploit the codependency between segmentation and registration with missing correspondences. In typical sequential approaches, the missing object is first segmented and then masked in the registration process.&lt;br/&gt;
+We proposed a flexible concurrent registration/segmentation method that makes no assumption of the registration similarity criterion or the object to be segmented. We applied the method on brain tumours and intra-operative registration with tumour resection.&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;parisots.github.io/images/FIGSR.png&#34; alt=&#34;ucy&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The method was extended for content-driven sparse sampling driven from registration and segmentation uncertainty. We aim at increasing the efficiency of our algorithm by building sparse non-uniform grids where the segmentation and registration parameters are evaluated.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Key methodological aspects&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Registration with missing correspondences&lt;/li&gt;
+&lt;li&gt;Atlas-based segmentation&lt;/li&gt;
+&lt;li&gt;Content-driven sparse sampling&lt;/li&gt;
+&lt;li&gt;Registration and segmentation uncertainty&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Related publications&lt;/em&gt;:&lt;/br&gt;
+Parisot et al. MICCAI 2012 [&lt;a href=&#34;http://dx.doi.org/10.1007/978-3-642-33418-4_80&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotMICCAI12.bib&#34;&gt;Bibtex&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/PDFs/ParisotMICCAI12.pdf&#34;&gt;PDF&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/Talks/MICCAI12.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/br&gt;
+Parisot et al. ICCV 2013 [&lt;a href=&#34;http://dx.doi.org/10.1109/ICCV.2013.85&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotICCV13.bib&#34;&gt;Bibtex&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/PDFs/ParisotICCV13.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/br&gt;
+Parisot et al. Medical Image Analysis 2014 [&lt;a href=&#34;http://dx.doi.org/10.1016/j.media.2014.02.006&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotMedia14.bib&#34;&gt;Bibtex&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/PDFs/ParisotMedia14.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;atlas-based-brain-tumour-segmentation:480eabfc025a3acfeb789e67d556a2f3&#34;&gt;Atlas-based Brain Tumour Segmentation&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;parisots.github.io/images/Atlas.png&#34; alt=&#34;Atlas&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Brain tumour segmentation was the main objective of my PhD thesis. Instead of focusing on machine learning methods which remain dependent on the appearance of the image pixels, we focused on incorporating high level information in the segmentation task.&lt;br/&gt;
+We built a probabilistic atlas describing the tumour&amp;rsquo;s preferential locations, which was integrated in a graph-cut segmentation algorithm as a position prior.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Key methodological aspects&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Network analysis and clustering&lt;/li&gt;
+&lt;li&gt;Markov Random Field models&lt;/li&gt;
+&lt;li&gt;Atlas-based segmentation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Related publications&lt;/em&gt;:&lt;/br&gt;
+ Parisot et al. MICCAI 2011 [&lt;a href=&#34;http://dx.doi.org/10.1007/978-3-642-23629-7_62&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotMICCAI11.bib&#34;&gt;Bibtex&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/PDFs/ParisotMICCAI11.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/br&gt;
+ Parisot et al. CVPR 2012 [&lt;a href=&#34;http://dx.doi.org/10.1109/CVPR.2012.6247775&#34;&gt;DOI&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/bib/ParisotCVPR12.bib&#34;&gt;Bibtex&lt;/a&gt;] [&lt;a href=&#34;parisots.github.io/PDFs/ParisotCVPR12.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software and Data</title>
+      <link>/parisots.github.io/Software%20and%20Data/</link>
+      <pubDate>Sun, 06 Sep 2015 22:04:14 +0100</pubDate>
+      
+      <guid>/parisots.github.io/Software%20and%20Data/</guid>
+      <description>
+
+&lt;h3 id=&#34;brain-parcellation-survey:fbaf3adb28958a88f2a39fdd6ab7ace3&#34;&gt;Brain Parcellation Survey&lt;/h3&gt;
+
+&lt;p&gt;In Arslan et al. NeuroImage 2017, we provide a large-scale systematic comparison of more than 30 state-of-the-art connectivity-driven, anatomical, and random parcellation methods.
+The preprint, as well as the code and data used for the survey are provided at &lt;a href=&#34;https://biomedia.doc.ic.ac.uk/brain-parcellation-survey/&#34;&gt;the dedicated webpage&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;software:fbaf3adb28958a88f2a39fdd6ab7ace3&#34;&gt;Software&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;./../images/gcn.png&#34; alt=&#34;GCN&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Python - Tensorflow implementation of the paper:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Sofia Ira Ktena, Enzo Ferrante, Matthew Lee, Ricardo Guerrerro Moreno, Ben Glocker, Daniel Rueckert:
+&lt;em&gt;Spectral Graph Convolutions for Population-based Disease Prediction&lt;/em&gt;.
+MICCAI 2017.&lt;/p&gt;
+
+&lt;p&gt;is available on github at &lt;a href=&#34;https://github.com/parisots/population-gcn&#34;&gt;https://github.com/parisots/population-gcn&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It exploits the novel concept of graphs CNNs to perform semi-supervised classification of populations.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;./../images/IPMI.png&#34; alt=&#34;IPMI2015&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The MATLAB implementation of the paper:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Parisot, S.&lt;/strong&gt;, Arslan, S., Passerat-Palmbach, J., Wells III, W.M., Rueckert, D.: &lt;em&gt;Tractography-Driven Groupwise Multi-scale Parcellation of the Cortex&lt;/em&gt;.
+In: Information Processing in Medical Imaging. pp. 600–612. Springer (2015)&lt;/p&gt;
+
+&lt;p&gt;is now available on github at &lt;a href=&#34;https://github.com/parisots/SpectralParcellation&#34;&gt;https://github.com/parisots/SpectralParcellation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It performs groupwise and single-subject parcellation of the brain&amp;rsquo;s cortical surface through a spectral clustering approach.&lt;/p&gt;
+
+&lt;p&gt;Please note that we are making use of the code from &lt;a href=&#34;http://www.timotheecour.com/software/ncut_multiscale/ncut_multiscale.html&#34;&gt;the multi-scale normalised cuts&lt;/a&gt; method introduced in&lt;/p&gt;
+
+&lt;p&gt;Timothee Cour, Florence Benezit, Jianbo Shi :
+&lt;em&gt;Spectral Segmentation with Multiscale Graph Decomposition&lt;/em&gt;.
+In: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2005.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;data:fbaf3adb28958a88f2a39fdd6ab7ace3&#34;&gt;Data&lt;/h3&gt;
+
+&lt;!---
+&lt;span class=&#34;imgleft&#34;&gt;![](http://db-gliomas-gradeii.net/onewebstatic/4d21e472ca-Tumex3-eps-converted-to.png)&lt;/span&gt;
+--&gt;
+
+&lt;p&gt;We have released the database used during my PhD for tumour segmentation and analysis. This is a set of 210 FLAIR MRI of different patients suffering from a diffuse Low Grade Glioma. All the images provided were acquired in a clinical setting, with varying quality and evolution of the disease. It results in a very challenging database for image processing tasks.&lt;/p&gt;
+
+&lt;p&gt;The complete database can be found at :
+&lt;a href=&#34;http://db-gliomas-gradeii.net/&#34;&gt;http://db-gliomas-gradeii.net/&lt;/a&gt;
+and
+&lt;a href=&#34;https://figshare.com/articles/Diffuse_Low_grade_Glioma_Database/1550871&#34;&gt;figshare&lt;/a&gt; (NIFTI format)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
