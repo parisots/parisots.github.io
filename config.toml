@@ -1,0 +1,26 @@
+baseurl="parisots.github.io"
+languageCode = "en-us"
+title = "Sarah Parisot"
+canonifyurls = true
+
+[author]
+   name = "Sarah Parisot"
+
+[params]
+   tagline = "Machine Learning Researcher at Aimbrain"
+
+   img = true
+
+   home = "About me"
+
+   github = "https://github.com/parisots"
+
+   linkedin = "https://uk.linkedin.com/in/parisotsarah/en"
+
+   googlescholar = "https://scholar.google.fr/citations?user=N-AmfK4AAAAJ&hl=en"
+
+   figshare = "https://figshare.com/authors/Sarah_Parisot/797241"
+
+   researchgate = "https://www.researchgate.net/profile/Sarah_Parisot"
+
+   rss = false
