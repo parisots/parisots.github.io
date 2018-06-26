@@ -12,6 +12,19 @@ Graphical Models and Concurrent Segmentation/Registration methods.
 Sarah Parisot, November 2013.
 [[PDF](https://tel.archives-ouvertes.fr/tel-00944541/document)]
 
+### 2018
+
+- Will Norcliffe-Brown, Efstathios Vafeias, **Sarah Parisot**:
+*Learning Conditioned Graph Structures for Interpretable Visual Question Answering*.
+Arxiv preprint.
+[[Code](https://github.com/aimbrain/vqa-project)] [[PDF](https://arxiv.org/pdf/1806.07243.pdf)]
+
+- **Sarah Parisot**, Sofia Ira Ktena, Enzo Ferrante, Matthew Lee, Ricardo Guerrerro, Ben Glocker, Daniel Rueckert:
+*Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer’s Disease*.
+Medical Image Analysis, invited paper for MICCAI 2017 special issue.
+[[Code](https://github.com/parisots/population-gcn)] [[PDF](https://arxiv.org/pdf/1806.01738.pdf)]
+
+
 ### 2017
 
 - Sofia Ira Ktena, **Sarah Parisot**, Enzo Ferrante, Martin Rajchl, Matthew Lee, Ben Glocker, Daniel Rueckert:

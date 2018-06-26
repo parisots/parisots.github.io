@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:parisots/parisots.github.io.git
+	branch = master
