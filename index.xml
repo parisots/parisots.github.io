@@ -31,13 +31,15 @@ Sarah Parisot, November 2013.
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Will Norcliffe-Brown, Efstathios Vafeias, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;:
 &lt;em&gt;Learning Conditioned Graph Structures for Interpretable Visual Question Answering&lt;/em&gt;.
-Arxiv preprint.
+NIPS 2018.
 [&lt;a href=&#34;https://github.com/aimbrain/vqa-project&#34;&gt;Code&lt;/a&gt;] [&lt;a href=&#34;https://arxiv.org/pdf/1806.07243.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Sofia Ira Ktena, Enzo Ferrante, Matthew Lee, Ricardo Guerrerro, Ben Glocker, Daniel Rueckert:
 &lt;em&gt;Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer’s Disease&lt;/em&gt;.
 Medical Image Analysis, invited paper for MICCAI 2017 special issue.
 [&lt;a href=&#34;https://github.com/parisots/population-gcn&#34;&gt;Code&lt;/a&gt;] [&lt;a href=&#34;https://arxiv.org/pdf/1806.01738.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Katarína Tóthová, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;, Matthew CH Lee, Esther Puyol-Antón, Lisa M. Koch, Andrew P. King, Ender Konukoglu, and Marc Pollefeys. &amp;ldquo;Uncertainty Quantification in CNN-Based Surface Prediction Using Shape Priors.&amp;rdquo; SHAPEMI@MICCAI 2018. [&lt;a href=&#34;https://arxiv.org/pdf/1807.11272.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;2017:10506e90c49cc5586595cb0d33adb63a&#34;&gt;2017&lt;/h3&gt;
@@ -222,13 +224,15 @@ MICCAI (2) 2011: 508-515
 
 &lt;p&gt;Convolutional Neural Networks (CNNs) have found numerous applications on 2D and 3D images, as powerful models that exploit features (e.g. image intensities) and neighbourhood information (e.g. the regular pixel grid) to yield hierarchies of features and solve problems like image segmentation and classification. Their impressive performance can be partly linked to the fact that CNNs intrinsically exploit the relationship between neighbouring pixels through the images&amp;rsquo; regular grid structure.&lt;/p&gt;
 
-&lt;p&gt;Applying similarly powerful tools for data defined on irregular graphical domains is not straightforward. In this project, we explore the novel concept of graph CNNs for brain analysis using population and brain graphs. In particular, spectral graph CNNs expoit the concept of signal processing on graphs, allowing convolutions in the graph spatial domain to be dealt as multiplications in the graph spectral domain.&lt;/p&gt;
+&lt;p&gt;Applying similarly powerful tools for data defined on irregular graphical domains is not straightforward. In this project, we explore the novel concept of graph CNNs for brain analysis using population and brain graphs.
+In particular, spectral graph CNNs expoit the concept of signal processing on graphs, allowing convolutions in the graph spatial domain to be dealt as multiplications in the graph spectral domain.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./images/GCN_figs.jpg&#34; alt=&#34;GCN&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Such formulation was exploited for:&lt;br/&gt;
 - Brain analysis in populations, combining imaging and non-imaging data through the construction of graphs representing populations. Semi-supervised classification of the graph nodes is carried out for diagnosis tasks.&lt;br/&gt;
-- The comparison of brain graphs, using a siamese graph CNN to learn a similarity metric between brain connectivity networks.&lt;/p&gt;
+- The comparison of brain graphs, using a siamese graph CNN to learn a similarity metric between brain connectivity networks.&lt;br/&gt;
+- Learning graph structures for Visual Question Answering.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Key methodological aspects&lt;/em&gt;:&lt;/p&gt;
 
@@ -237,11 +241,13 @@ MICCAI (2) 2011: 508-515
 &lt;li&gt;Graph signal processing&lt;/li&gt;
 &lt;li&gt;Semi-supervised classification&lt;/li&gt;
 &lt;li&gt;Metric learning&lt;/li&gt;
+&lt;li&gt;Learning conditioned graph structures&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;em&gt;Selected publications&lt;/em&gt;:&lt;/br&gt;
 Parisot et al. MICCAI 2017&lt;/br&gt;
-Ktena et al. MICCAI 2017&lt;/p&gt;
+Ktena et al. MICCAI 2017&lt;/br&gt;
+Norcliffe-Brown et al. NIPS 2018&lt;/p&gt;
 
 &lt;h3 id=&#34;connectivity-driven-brain-parcellation:480eabfc025a3acfeb789e67d556a2f3&#34;&gt;Connectivity-driven Brain Parcellation&lt;/h3&gt;
 
@@ -343,6 +349,20 @@ We built a probabilistic atlas describing the tumour&amp;rsquo;s preferential lo
 The preprint, as well as the code and data used for the survey are provided at &lt;a href=&#34;https://biomedia.doc.ic.ac.uk/brain-parcellation-survey/&#34;&gt;the dedicated webpage&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;software:fbaf3adb28958a88f2a39fdd6ab7ace3&#34;&gt;Software&lt;/h3&gt;
+
+&lt;p&gt;The Python - Pytorch implementation of the paper:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Will Norcliffe-Brown, Efstathios Vafeias, &lt;strong&gt;Sarah Parisot&lt;/strong&gt;:
+&lt;em&gt;Learning Conditioned Graph Structures for Interpretable Visual Question Answering&lt;/em&gt;.
+NIPS 2018.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;is available on github at &lt;a href=&#34;https://github.com/aimbrain/vqa-project&#34;&gt;https://github.com/aimbrain/vqa-project&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It proposes a graph learner module combined with graph CNNS for Visual Question Answering.&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;&lt;img src=&#34;./../images/gcn.png&#34; alt=&#34;GCN&#34; /&gt;&lt;/p&gt;
 
