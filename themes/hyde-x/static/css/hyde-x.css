@@ -19,14 +19,14 @@
   .sidebar-about img {
     margin: 0 0 0.75rem 0;
     width: 175px;
-    height: auto;
+    height: 175px;
   }
 }
 @media (min-width: 58em) {
   .sidebar-about img {
     margin: 0 0 1rem 0;
     width: 200px;
-    height: auto;
+    height: 200px;
   }
 }
 
@@ -34,7 +34,7 @@
 .label {
   display: inline;
   padding: .2em .6em .3em;
-  font-size: 80%;
+  font-size: 75%;
   font-weight: bold;
   line-height: 1;
   color: #fff;
