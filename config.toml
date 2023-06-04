@@ -1,13 +1,14 @@
 baseurl="https://parisots.github.io"
 languageCode = "en-us"
 title = "Sarah Parisot"
+theme = 'Hyde-X'
 relativeURLs = true
 
 [author]
    name = "Sarah Parisot"
 
 [params]
-   tagline = "Machine Learning Researcher at Aimbrain"
+   tagline = "Team Leader at Huawei Noah's Ark Lab"
 
    img = true
 

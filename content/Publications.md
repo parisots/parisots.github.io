@@ -2,6 +2,7 @@
 date = "2015-09-07T23:45:22+01:00"
 draft = false
 title = "Publications"
+url = "/Publications"
 menu = "main"
 +++
 
@@ -12,11 +13,75 @@ Graphical Models and Concurrent Segmentation/Registration methods.
 Sarah Parisot, November 2013.
 [[PDF](https://tel.archives-ouvertes.fr/tel-00944541/document)]
 
+
+### 2023
+
+- Eli Verwimp, Kuo Yang, **Sarah Parisot**, Lanqing Hong, Steven McDonagh, Eduardo Pérez-Pellitero, Matthias De Lange, Tinne Tuytelaars: Clad: A realistic continual learning benchmark for autonomous driving. Neural Networks.
+[[Code](https://github.com/VerwimpEli/CLAD)] [[PDF](https://arxiv.org/pdf/2210.03482v1.pdf)]
+
+- **Sarah Parisot**, Yongxin Yang, Steven McDonagh: Learning to Name Classes for Vision and Language Models. CVPR 2023.
+[[Video](https://www.youtube.com/watch?v=O1nW_7Xjmys)] [[PDF](https://arxiv.org/pdf/2304.01830.pdf)]
+
+### 2022
+
+- William Thong, Jose Costa Pereira, **Sarah Parisot**, Ales Leonardis, Steven McDonagh: Content-Diverse Comparisons improve IQA. BMVC 2022.
+ [[Paper Page](https://bmvc2022.mpi-inf.mpg.de/244/)]
+
+- Eli Verwimp, Kuo Yang, **Sarah Parisot**, Hong Lanqing, Steven McDonagh, Eduardo Pérez-Pellitero, Matthias De Lange, Tinne Tuytelaars: Re-examining distillation for continual object detection. BMVC 2022.
+[[Paper Page](https://bmvc2022.mpi-inf.mpg.de/807/)]
+
+- **Sarah Parisot**, Pedro M Esperança, Steven McDonagh, Tamas J Madarasz, Yongxin Yang, Zhenguo Li: Long-tail recognition via compositional knowledge transfer. CVPR 2022.
+[[PDF](https://arxiv.org/pdf/2112.06741.pdf)]
+
+### 2021
+
+- Mateusz Michalkiewicz, Stavros Tsogkas, **Sarah Parisot**, Mahsa Baktashmotlagh, Anders Eriksson, Eugene Belilovsky: Learning Compositional Shape Priors for Few-Shot 3D Reconstruction. ArXiv.
+[[PDF](https://arxiv.org/pdf/2106.06440.pdf)]
+
+- Matthias De Lange, Rahaf Aljundi, Marc Masana, **Sarah Parisot**, Xu Jia, Aleš Leonardis, Gregory Slabaugh, Tinne Tuytelaars : A continual learning survey: Defying forgetting in classification tasks. PAMI.
+[[Code](https://github.com/Mattdl/CLsurvey)] [[PDF](https://arxiv.org/pdf/1909.08383.pdf)]
+
+### 2020
+
+- Carlo Biffi, Steven McDonagh, Philip Torr, Ales Leonardis, **Sarah Parisot**: Many-shot from Low-shot: Learning to Annotate using Mixed Supervision for Object Detection. ECCV 2020.
+[[Video](https://www.youtube.com/watch?v=7gDALKAZ_pw)] [[PDF](https://arxiv.org/pdf/2008.09694.pdf)]
+
+- Yu Liu, **Sarah Parisot**, Gregory Slabaugh, Xu Jia, Ales Leonardis, Tinne Tuytelaars: More Classifiers, Less Forgetting: A Generic Multi-classifier Paradigm for Incremental Learning. ECCV 2020.
+[[Code](https://github.com/liuyudut/MUC)] [[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710698.pdf)]
+
+- Mateusz Michalkiewicz, **Sarah Parisot**, Stavros Tsogkas, Mahsa Baktashmotlagh, Anders Eriksson, Eugene Belilovsky: Few-Shot Single-View 3-D Object Reconstruction with Compositional Priors. ECCV 2020.
+[[Video](https://www.youtube.com/watch?v=2A2jpojmY8M)][[Code](https://github.com/JeremyFisher/few_shot_3dr)] [[PDF](https://arxiv.org/pdf/2004.06302.pdf)]
+
+- Danai Triantafyllidou, Sean Moran, Steven McDonagh, **Sarah Parisot**, Gregory Slabaugh: Low light video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping. ECCV 2020.
+ [[PDF](https://arxiv.org/pdf/2002.12896.pdf)]
+
+- Daniel Hernandez, **Sarah Parisot**, Ales Leonardis, Gregory Slabaugh, Steven McDonagh. A multi-hypothesis approach to color constancy. CVPR 2020.
+[[Code](https://github.com/huawei-noah/multi_hyp_cc)] [[PDF](https://arxiv.org/pdf/2002.12896.pdf)]
+
+- Sean Moran, Pierre Marza, Steven McDonagh, **Sarah Parisot**, Gregory Slabaugh.  Deep local parametric filters for imageenhancement. CVPR 2020.
+[[Code](https://github.com/sjmoran/deep_local_parametric_filters)] [[PDF](https://arxiv.org/pdf/2003.13985.pdf)]
+
+- Matthias De Lange, Xu Jia, **Sarah Parisot**, Ales Leonardis, Gregory Slabaugh, Tinne Tuytelaars. Unsupervised model person-alization while preserving privacy and scalability: an open problem. CVPR 2020.
+[[Code](https://github.com/Mattdl/DUA)] [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/De_Lange_Unsupervised_Model_Personalization_While_Preserving_Privacy_and_Scalability_An_Open_CVPR_2020_paper.pdf)]
+
+- Katarina Tothova, **Sarah Parisot**, Matthew Lee, Esther Puyol Anton, Andrew King, Marc Pollefeys, Ender Konukoglu. Probabilistic 3D surface reconstruction from sparse MRI information. MICCAI 2020.
+
+- Linpu Fang, Hang Xu, Zhili Liu, **Sarah Parisot**, Zhenguo Li: EHSOD: CAM-Guided End-to-end Hybrid-Supervised ObjectDetection with Cascade Refinement. AAAI 2020.
+[[PDF](https://arxiv.org/pdf/2002.07421.pdf)]
+
+### 2019
+
+- \*Steven McDonagh, \***Sarah Parisot**, Fengwei Zhou, Xing Zhang, Ales Leonardis, Zhenguo Li, Gregory Slabaugh: *Formulating Camera-Adaptive Color Constancy as a Few-shot Meta-Learning Problem*. Preprint.
+[[PDF](https://arxiv.org/pdf/1811.11788.pdf)]
+
+- Matthias De Lange, Rahaf Aljundi, Marc Masana, **Sarah Parisot**, Xu Jia, Ales Leonardis, Gregory Slabaugh, Tinne Tuytelaars: *Continual learning: A comparative study on how to defy forgetting in classification tasks.* Preprint.
+[[Code](https://github.com/Mattdl/CLsurvey)] [[PDF](https://arxiv.org/pdf/1909.08383.pdf)]
+
 ### 2018
 
 - Will Norcliffe-Brown, Efstathios Vafeias, **Sarah Parisot**:
 *Learning Conditioned Graph Structures for Interpretable Visual Question Answering*.
-Arxiv preprint.
+NeurIPS 2018.
 [[Code](https://github.com/aimbrain/vqa-project)] [[PDF](https://arxiv.org/pdf/1806.07243.pdf)]
 
 - **Sarah Parisot**, Sofia Ira Ktena, Enzo Ferrante, Matthew Lee, Ricardo Guerrerro, Ben Glocker, Daniel Rueckert:
@@ -24,12 +89,13 @@ Arxiv preprint.
 Medical Image Analysis, invited paper for MICCAI 2017 special issue.
 [[Code](https://github.com/parisots/population-gcn)] [[PDF](https://arxiv.org/pdf/1806.01738.pdf)]
 
+- Katarína Tóthová, **Sarah Parisot**, Matthew CH Lee, Esther Puyol-Antón, Lisa M. Koch, Andrew P. King, Ender Konukoglu, and Marc Pollefeys. "Uncertainty Quantification in CNN-Based Surface Prediction Using Shape Priors." SHAPEMI@MICCAI 2018. [[PDF](https://arxiv.org/pdf/1807.11272.pdf)]
 
 ### 2017
 
 - Sofia Ira Ktena, **Sarah Parisot**, Enzo Ferrante, Martin Rajchl, Matthew Lee, Ben Glocker, Daniel Rueckert:
 *Metric Learning with Spectral Graph Convolutions on Brain Connectivity Networks*.
-Accepted at NeuroImage (2017)
+NeuroImage (2017)
 [[Code](https://github.com/sk1712/gcn_metric_learning)]
 
 - **Sarah Parisot**, Ben Glocker, Sofia Ira Ktena, Salim Arslan, Markus D Schirmer, Daniel Rueckert:
@@ -44,7 +110,7 @@ the Human Cerebral Cortex*.
 NeuroImage (2017)
 [[Code and Data](https://biomedia.doc.ic.ac.uk/brain-parcellation-survey/)] [[DOI](http://doi.org/10.1016/j.neuroimage.2017.04.014)] [[PDF](https://www.doc.ic.ac.uk/~sa1013/pub/2017-neuroimage-brain-parcellation-survey.pdf)]
 
-- **Sarah Parisot**, Sofia Ira Ktena, Enzo Ferrante, Matthew Lee, Ricardo Guerrerro Moreno, Ben Glocker, Daniel Rueckert:
+- **Sarah Parisot**, Sofia Ira Ktena, Enzo Ferrante, Matthew Lee, Ricardo Guerrerro, Ben Glocker, Daniel Rueckert:
 *Spectral Graph Convolutions for Population-based Disease Prediction*.
 MICCAI 2017.
 [[Code](https://github.com/parisots/population-gcn)] [[PDF](https://arxiv.org/pdf/1703.03020.pdf)]
@@ -120,7 +186,7 @@ IPMI 2015: 85-97  (**_Oral presentation_**)
 - **Sarah Parisot**, Salim Arslan, Jonathan Passerat-Palmbach, William M. Wells III, Daniel Rueckert:
 *Tractography-Driven Groupwise Multi-scale Parcellation of the Cortex*.
 IPMI 2015: 600-612
-[[DOI](http://dx.doi.org/10.1007/978-3-319-19992-4_47)] [[Bibtex](/bib/ParisotIPMI15.bib)] [[PDF](/PDFs/ParisotIPMI15.pdf)]
+[[Code](https://github.com/parisots/SpectralParcellation)][[DOI](http://dx.doi.org/10.1007/978-3-319-19992-4_47)] [[Bibtex](/bib/ParisotIPMI15.bib)] [[PDF](/PDFs/ParisotIPMI15.pdf)]
 
 - Wenjia Bai, Devis Peressutti, **Sarah Parisot**, Ozan Oktay, Martin Rajchl, Declan P. O'Regan, Stuart A. Cook, Andrew P. King, Daniel Rueckert:
 *Beyond the AHA 17-Segment Model: Motion-Driven Parcellation of the Left Ventricle*.
