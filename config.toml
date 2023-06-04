@@ -1,7 +1,7 @@
 baseurl="https://parisots.github.io"
 languageCode = "en-us"
 title = "Sarah Parisot"
-theme = 'Hyde-X'
+theme = 'hyde-x'
 relativeURLs = true
 
 [author]
